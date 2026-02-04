@@ -2,7 +2,7 @@
 
 🇫🇷 / 🇬🇧
 
-Chloé, 21 ans, actuellement alternance en informatique, ce profil GitHub me permet de mettre (enfin) au jour tous mes projets réalisés dans un cadre personnel et/ou scolaire.
+Chloé, 21 ans, actuellement alternante en informatique, ce profil GitHub me permet de mettre (enfin) au jour tous mes projets réalisés dans un cadre personnel et/ou scolaire.
 
 
 <h2> 🚀 &nbsp;Voici quelques langagues/ technologies maitrisés ou en cours d'apprentissage: </h2>
