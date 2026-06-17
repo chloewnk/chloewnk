@@ -7,7 +7,7 @@
 
 Learning : 
 
-💻 JAVA, C, Python, SQL, PL/SQL, HTML, CSS, PHP, JS, BASH/ZSH, SHELL
+💻 JAVA, C, Python, SQL, PL/SQL, HTML, CSS, PHP, JS, BASH/ZSH, SHELL, Docker
 
 🛜 Wireshark, tcpdump
 
